@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/moviezone/static/css/main.038bd9d5.chunk.css",
+    "main.js": "/moviezone/static/js/main.d5b30ab9.chunk.js",
+    "main.js.map": "/moviezone/static/js/main.d5b30ab9.chunk.js.map",
+    "runtime-main.js": "/moviezone/static/js/runtime-main.5f8ae1b1.js",
+    "runtime-main.js.map": "/moviezone/static/js/runtime-main.5f8ae1b1.js.map",
+    "static/js/2.c1c53fdc.chunk.js": "/moviezone/static/js/2.c1c53fdc.chunk.js",
+    "static/js/2.c1c53fdc.chunk.js.map": "/moviezone/static/js/2.c1c53fdc.chunk.js.map",
+    "index.html": "/moviezone/index.html",
+    "static/css/main.038bd9d5.chunk.css.map": "/moviezone/static/css/main.038bd9d5.chunk.css.map",
+    "static/js/2.c1c53fdc.chunk.js.LICENSE.txt": "/moviezone/static/js/2.c1c53fdc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f8ae1b1.js",
+    "static/js/2.c1c53fdc.chunk.js",
+    "static/css/main.038bd9d5.chunk.css",
+    "static/js/main.d5b30ab9.chunk.js"
+  ]
+}
