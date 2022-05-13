@@ -5,13 +5,16 @@ import Search from "./components/search";
 import Results from "./components/Results";
 import Popup from "./components/Popup";
 
+console.log(process.env);
+
+const {REACT_APP_API_KEY} =process.env;
 function App() {
   const [state, setState] = useState({
     s: "",
     results: [],
     selected: {},
   });
-  const apiurl = "https://www.omdbapi.com/?apikey=a046ebb0";
+  const apiurl = `https://www.omdbapi.com/?apikey=${REACT_APP_API_KEY}`;
 
   const search = (e) => {
     if (e.key === "Enter") {
